@@ -546,7 +546,7 @@ My submission scores:
 \end{enumerate}
 
 Comparing my solution to the best submission I found that some people managed to
-score in the top 2\% (score of 81.818\%) using only a "brute force" approach.
+score in the top 2\% (score of 81.818\%) using only a "simple" approach.
 \\\\
 
 Their data cleaning was essentially identical to mine, meanwhile they did not do
